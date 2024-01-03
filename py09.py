@@ -1,0 +1,6 @@
+name=input("Enter your name =")
+age=input("Enter your age=")
+cgpa=input("Enter your cgpa=")
+print("My name is= "+name)
+print("Enter your age= "+age)
+print("Enter your cgpa= "+cgpa)

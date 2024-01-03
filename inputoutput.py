@@ -1,0 +1,7 @@
+name = input("what is your name= ")
+num = input("What is your number= ")
+print("The name tool= " + name + " ,number= " + num)
+print("My name is = ")
+print(type(name))
+print("My number is= ")
+print(type(num))
